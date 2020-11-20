@@ -83,7 +83,7 @@ def chk_buttons():
         
 
 def send():
-    can.send('EVZRTST', 123)   # send a message with id 123
+    can.send('JOYPAD', 123)   # send a message with id 123
     
 def get():
     mess = can.recv(0)
