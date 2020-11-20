@@ -8,7 +8,7 @@ utime.sleep_ms(500)
 print("starting Joypad v1.0p test code")
 print("v1.0")
 print("initializing")
-can = CAN(1, CAN.LOOPBACK)
+can = CAN(1, CAN.NORMAL)
 can.setfilter(0, CAN.LIST16, 0, (123, 124, 125, 126))
 
 
