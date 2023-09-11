@@ -3,17 +3,15 @@
 
 An edge board shaped like a joypad. It has 2 analog inputs, 4 light up buttons, start and select pushbuttons, a dpad, a buzzer and a 5 position neopixel strip. 
 
-![sm]()
+![sm](https://github.com/evezor/v0_joypad/blob/master/pics/sm.PNG)
 
-![sm2]()
+![front](https://github.com/evezor/v0_joypad/blob/master/pics/front.PNG)
 
-![front]()
+![back](https://github.com/evezor/v0_joypad/blob/master/pics/back.PNG)
 
-![back]()
+![copper](https://github.com/evezor/v0_joypad/blob/master/pics/copper.PNG)
 
-![copper]()
-
-![sch]()
+![sch](https://github.com/evezor/v0_joypad/blob/master/cad_files/Joypad.svg)
 
 
 source files can be found here: https://github.com/evezor/v0_joypad
